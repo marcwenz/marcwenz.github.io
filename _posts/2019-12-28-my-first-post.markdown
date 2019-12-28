@@ -18,7 +18,7 @@ print1to10()
 #=> prints '1, 2, ..., 10'
 {% endhighlight %}
 
-If you're wondering just where I get all my ideas and inspirations, well let me tell you... [Google][google-web] has been a great inspiration and when scrolling through the endless stream of content on [YouTube][yt-web], ideas just come flying to me!
+If you're wondering just where I get all my ideas and inspirations, well let me tell you... [Google][google-web]{:target="_blank"} has been a great inspiration and when scrolling through the endless stream of content on [YouTube][yt-web]{:target="_blank"}, ideas just come flying to me!
 
 [google-web]: https://www.google.com/
 [yt-web]: https://www.youtube.com/
